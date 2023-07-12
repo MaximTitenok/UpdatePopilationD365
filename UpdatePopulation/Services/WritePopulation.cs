@@ -1,13 +1,7 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Xrm.Sdk.Query;
-using Microsoft.Xrm.Sdk;
+﻿using Microsoft.Xrm.Sdk;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using UpdatePopulation.Repositories;
-using Microsoft.Identity.Client;
 using System.Diagnostics;
 
 namespace UpdatePopulation.Services
